@@ -1,4 +1,4 @@
-evan-pong
+Pong
 =========
 
 Java implementation of Pong
@@ -19,3 +19,10 @@ Right Player Movement:
 Other:
 
 + Hit the spacebar to start the game and to continue play after each score.
+
+Future Updates
+==============
+
++ Cooler paddle design (instead of a boring white rectangle)
++ Cooler ball design
++ Angled ball movement depending on where it hits the paddle
