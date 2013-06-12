@@ -8,14 +8,14 @@ Controls
 
 Left Player Movement:
 
-Up - W key
-Down - S key
++Up - W key
++Down - S key
 
 Right Player Movement:
 
-Up - Up arrow key
-Down - Down arrow key
++Up - Up arrow key
++Down - Down arrow key
 
 Other:
 
-Hit the spacebar to start the game and to continue play after each score.
++Hit the spacebar to start the game and to continue play after each score.
